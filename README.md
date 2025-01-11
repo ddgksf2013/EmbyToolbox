@@ -1,5 +1,5 @@
 ### EmbyToolbox
-
+排名不分先后
 <table>
     <tr>
         <th>序号</th>
@@ -131,7 +131,7 @@
         <td>Emby mod</td>
         <td><img src="https://files.catbox.moe/3hb0p0.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://t.me/ddgksf2023/224">点击</a></td>
-		<td></td><td>✔️</td><td></td><td>️</td><td></td><td>✔️</td><td>✔️</td>
+		<td></td><td></td><td></td><td>️</td><td></td><td>✔️</td><td></td>
     </tr>
 	<tr>
         <td>18</td>
