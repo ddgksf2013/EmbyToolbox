@@ -9,9 +9,9 @@
         <th>IOS</th>
 		<th>macOS</th>
 		<th>tvOS</th>
-		<th>Android</th>
-		<th>AndroidTV</th>
-		<th>Windows</th>
+		<th>安卓</th>
+		<th>安卓TV</th>
+		<th>Win</th>
 		<th>Linux</th>
     </tr>
 	<tr>
@@ -152,7 +152,7 @@
         <td>yamby</td>
         <td><img src="https://files.catbox.moe/7mbcb4.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://t.me/yamby_release">点击</a></td>
-		<td></td><td></td><td></td><td>️✔️</td><td></td><td></td><td></td>
+		<td></td><td></td><td></td><td>️✔️</td><td>✔️</td><td></td><td></td>
     </tr>
 	<tr>
         <td>21</td>
@@ -166,6 +166,13 @@
         <td>AfuseKt</td>
         <td><img src="https://files.catbox.moe/0e2da5.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://github.com/AttemptD/AfuseKt-release/releases">点击</a></td>
-		<td></td><td></td><td></td><td>️✔️</td><td></td><td></td><td></td>
+		<td></td><td></td><td></td><td>️✔️</td><td>✔️</td><td></td><td></td>
+    </tr>
+	<tr>
+        <td>23</td>
+        <td>AfuseKt</td>
+        <td><img src="https://files.catbox.moe/zvwlm5.png" alt="Logo" style="width: 32px; height: 32px;"></td>
+        <td><a href="https://agcplayer.com/">点击</a></td>
+		<td>✔️</td><td>✔️</td><td>✔️</td><td>️✔️</td><td></td><td></td><td></td>
     </tr>
 </table>
