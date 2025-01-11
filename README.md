@@ -1,5 +1,5 @@
 ### EmbyToolbox
-排名不分先后
+排名不分先后，若有遗漏或错误之处请私信墨鱼 [@ddgksf2013](https://t.me/ddgksf2013)
 <table>
     <tr>
         <th>序号</th>
@@ -170,7 +170,7 @@
     </tr>
 	<tr>
         <td>23</td>
-        <td>AfuseKt</td>
+        <td>agcplayer</td>
         <td><img src="https://files.catbox.moe/zvwlm5.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://agcplayer.com/">点击</a></td>
 		<td>✔️</td><td>✔️</td><td>✔️</td><td>️✔️</td><td></td><td></td><td></td>
