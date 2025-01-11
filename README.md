@@ -72,7 +72,7 @@
     </tr>
 	<tr>
         <td>9</td>
-        <td>Stevewatch</td>
+        <td>Steve</td>
         <td><img src="https://files.catbox.moe/hrs5gm.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://apps.apple.com/us/app/id6478312533">点击</a></td>
 		<td>✔️</td><td></td><td>✔️</td><td>️</td><td></td><td></td><td></td>
@@ -128,7 +128,7 @@
     </tr>
 	<tr>
         <td>17</td>
-        <td>Emby mod</td>
+        <td>EmbyMod</td>
         <td><img src="https://files.catbox.moe/3hb0p0.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://t.me/ddgksf2023/224">点击</a></td>
 		<td></td><td></td><td></td><td>️</td><td></td><td>✔️</td><td></td>
