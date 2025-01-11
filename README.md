@@ -9,8 +9,8 @@
         <th>IOS</th>
 		<th>macOS</th>
 		<th>tvOS</th>
-		<th>安卓</th>
-		<th>安卓TV</th>
+		<th>Android</th>
+		<th>AndroidTV</th>
 		<th>Win</th>
 		<th>Linux</th>
     </tr>
@@ -174,5 +174,19 @@
         <td><img src="https://files.catbox.moe/zvwlm5.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://agcplayer.com/">点击</a></td>
 		<td>✔️</td><td>✔️</td><td>✔️</td><td>️✔️</td><td></td><td></td><td></td>
+    </tr>
+	<tr>
+        <td>24</td>
+        <td>Reflix</td>
+        <td><img src="https://files.catbox.moe/0br4jn.png" alt="Logo" style="width: 32px; height: 32px;"></td>
+        <td><a href="https://testflight.apple.com/join/JbaJzYXc">点击</a></td>
+		<td>✔️</td><td></td><td></td><td>️</td><td></td><td></td><td></td>
+    </tr>
+	<tr>
+        <td>25</td>
+        <td>BeeJoy</td>
+        <td><img src="https://files.catbox.moe/13odl5.png" alt="Logo" style="width: 32px; height: 32px;"></td>
+        <td><a href="https://apps.apple.com/us/app/id6670792086">点击</a></td>
+		<td>✔️</td><td></td><td>✔️</td><td>️</td><td></td><td></td><td></td>
     </tr>
 </table>
