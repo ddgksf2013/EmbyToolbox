@@ -179,7 +179,7 @@
         <td>24</td>
         <td>Reflix</td>
         <td><img src="https://files.catbox.moe/0br4jn.png" alt="Logo" style="width: 32px; height: 32px;"></td>
-        <td><a href="https://testflight.apple.com/join/JbaJzYXc">点击</a></td>
+        <td><a href="https://apps.apple.com/cn/app/id6621243955">点击</a></td>
 		<td>✔️</td><td></td><td></td><td>️</td><td></td><td></td><td></td>
     </tr>
 	<tr>
