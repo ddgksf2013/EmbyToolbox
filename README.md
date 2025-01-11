@@ -6,7 +6,7 @@
         <th>名称</th>
         <th>图标</th>
 		<th>直达</th>
-        <th>IOS/iPadOS</th>
+        <th>IOS</th>
 		<th>macOS</th>
 		<th>tvOS</th>
 		<th>Android</th>
