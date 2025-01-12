@@ -193,7 +193,7 @@
         <td>26</td>
         <td>Filmly</td>
         <td><img src="https://files.catbox.moe/xc9q2i.png" alt="Logo" style="width: 32px; height: 32px;"></td>
-        <td><a href="https://apps.apple.com/cn/app/id6480252695">点击</a></td>
-		<td>✔️</td><td></td><td>✔️</td><td>️</td><td></td><td></td><td></td>
+        <td><a href="https://bmh.163.com/download/">点击</a></td>
+		<td>✔️</td><td>✔️</td><td>✔️</td><td>️✔️</td><td>✔️</td><td></td><td></td>
     </tr>
 </table>
