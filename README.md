@@ -1,5 +1,6 @@
 ### EmbyToolbox
-排名不分先后，若有遗漏或错误之处请私信墨鱼 [@ddgksf2013](https://t.me/ddgksf2013)
+工欲善其事，必先利其器 
+排名不分先后，若有遗漏或错误之处请私信墨鱼 [@ddgksf2013](https://t.me/ddgksf2013) 
 <table>
     <tr>
         <th>序号</th>
