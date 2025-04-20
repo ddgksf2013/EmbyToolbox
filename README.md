@@ -214,7 +214,7 @@
     </tr>
 	<tr>
         <td>29</td>
-        <td>Ghosten Player</td>
+        <td>Lenna</td>
         <td><img src="https://files.catbox.moe/dd5vvj.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://apps.apple.com/us/app/id6502967807">点击</a></td>
 		<td>✔️</td><td></td><td></td><td></td><td></td><td></td><td></td>
