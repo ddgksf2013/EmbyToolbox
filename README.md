@@ -1,7 +1,7 @@
 ### EmbyToolbox
 工欲善其事，必先利其器  
 排名不分先后，若有遗漏或错误之处请私信墨鱼 [@ddgksf2013](https://t.me/ddgksf2013)  
-更新于 2025-04-02
+更新于 2025-04-20
 <table>
     <tr>
         <th>序号</th>
@@ -211,5 +211,12 @@
         <td><img src="https://files.catbox.moe/wvzx97.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://github.com/GhostenEditor/Ghosten-Player/releases">点击</a></td>
 		<td></td><td></td><td></td><td>✔️</td><td>✔️</td><td></td><td></td>
+    </tr>
+	<tr>
+        <td>29</td>
+        <td>Ghosten Player</td>
+        <td><img src="https://files.catbox.moe/dd5vvj.png" alt="Logo" style="width: 32px; height: 32px;"></td>
+        <td><a href="https://apps.apple.com/us/app/id6502967807">点击</a></td>
+		<td>✔️</td><td></td><td></td><td></td><td></td><td></td><td></td>
     </tr>
 </table>
