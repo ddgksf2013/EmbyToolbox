@@ -1,7 +1,7 @@
 ### EmbyToolbox
 工欲善其事，必先利其器  
 排名不分先后，若有遗漏或错误之处请私信墨鱼 [@ddgksf2013](https://t.me/ddgksf2013)  
-更新于 2025-07-01
+更新于 2025-07-01 [带☆为自用]
 <table>
     <tr>
         <th>序号</th>
@@ -46,7 +46,7 @@
     </tr>
 	<tr>
         <td>5</td>
-        <td>SenPlayer</td>
+        <td>SenPlayer☆</td>
         <td><img src="https://files.catbox.moe/aqnknc.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://apps.apple.com/cn/app/id6443975850">点击</a></td>
 		<td>✔️</td><td></td><td>✔️</td><td>️</td><td></td><td></td><td></td>
@@ -151,7 +151,7 @@
     </tr>
 	<tr>
         <td>20</td>
-        <td>yamby</td>
+        <td>yamby☆</td>
         <td><img src="https://files.catbox.moe/7mbcb4.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://t.me/yamby_release">点击</a></td>
 		<td></td><td></td><td></td><td>️✔️</td><td>✔️</td><td></td><td></td>
@@ -221,7 +221,7 @@
     </tr>
 	<tr>
         <td>30</td>
-        <td>小幻影视</td>
+        <td>小幻影视☆</td>
         <td><img src="https://files.catbox.moe/vbiacg.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://apps.microsoft.com/detail/9nb0h051m4v4?hl=zh-TW&gl=JP">点击</a></td>
 		<td></td><td></td><td></td><td></td><td></td><td>✔️</td><td></td>
