@@ -223,7 +223,7 @@
         <td>30</td>
         <td>小幻影视</td>
         <td><img src="https://files.catbox.moe/vbiacg.png" alt="Logo" style="width: 32px; height: 32px;"></td>
-        <td><a href="[https://apps.apple.com/us/app/id6502967807](https://apps.microsoft.com/detail/9nb0h051m4v4?hl=zh-TW&gl=JP)">点击</a></td>
+        <td><a href="https://apps.microsoft.com/detail/9nb0h051m4v4?hl=zh-TW&gl=JP">点击</a></td>
 		<td></td><td></td><td></td><td></td><td></td><td>✔️</td><td></td>
     </tr>
 </table>
