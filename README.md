@@ -1,7 +1,7 @@
 ### EmbyToolbox
 工欲善其事，必先利其器  
 排名不分先后，若有遗漏或错误之处请私信墨鱼 [@ddgksf2013](https://t.me/ddgksf2013)  
-更新于 2025-07-01 [带☆为自用]
+更新于 2025-07-21 [带☆为自用]
 <table>
     <tr>
         <th>序号</th>
@@ -225,5 +225,26 @@
         <td><img src="https://files.catbox.moe/vbiacg.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://apps.microsoft.com/detail/9nb0h051m4v4?hl=zh-TW&gl=JP">点击</a></td>
 		<td></td><td></td><td></td><td></td><td></td><td>✔️</td><td></td>
+    </tr>
+	<tr>
+        <td>31</td>
+        <td>DeePlayer</td>
+        <td><img src="https://files.catbox.moe/sswvup.png" alt="Logo" style="width: 32px; height: 32px;"></td>
+        <td><a href="https://apps.apple.com/app/id6744684471">点击</a></td>
+		<td>✔️</td><td></td><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+	<tr>
+        <td>32</td>
+        <td>NipaPlay</td>
+        <td><img src="https://files.catbox.moe/bk7bu8.png" alt="Logo" style="width: 32px; height: 32px;"></td>
+        <td><a href="https://github.com/MCDFsteve/NipaPlay-Reload">点击</a></td>
+		<td>✔️</td><td>✔️</td><td></td><td>✔️</td><td></td><td>✔️</td><td>✔️</td>
+    </tr>
+	<tr>
+        <td>33</td>
+        <td>EmbyLink</td>
+        <td><img src="https://files.catbox.moe/hp2hau.png" alt="Logo" style="width: 32px; height: 32px;"></td>
+        <td><a href="https://github.com/qsesw/EmbyLink">点击</a></td>
+		<td></td><td></td><td></td><td></td><td></td><td></td><td>✔️</td>
     </tr>
 </table>
