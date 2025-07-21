@@ -49,7 +49,7 @@
         <td>SenPlayer☆</td>
         <td><img src="https://files.catbox.moe/aqnknc.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://apps.apple.com/cn/app/id6443975850">点击</a></td>
-		<td>✔️</td><td></td><td>✔️</td><td>️</td><td></td><td></td><td></td>
+		<td>✔️</td><td>✔️</td><td>✔️</td><td>️</td><td></td><td></td><td></td>
     </tr>
 	<tr>
         <td>6</td>
@@ -70,7 +70,7 @@
         <td>Forward</td>
         <td><img src="https://files.catbox.moe/lg2r1g.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://apps.apple.com/us/app/id6503940939">点击</a></td>
-		<td>✔️</td><td></td><td></td><td>️</td><td></td><td></td><td></td>
+		<td>✔️</td><td></td><td>✔️</td><td>️</td><td></td><td></td><td></td>
     </tr>
 	<tr>
         <td>9</td>
