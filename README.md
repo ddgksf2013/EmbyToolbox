@@ -1,7 +1,7 @@
 ### EmbyToolbox
 工欲善其事，必先利其器  
 排名不分先后，若有遗漏或错误之处请私信墨鱼 [@ddgksf2013](https://t.me/ddgksf2013)  
-更新于 2025-07-21 [带☆为自用]
+更新于 2025-07-22 [带☆为自用]
 <table>
     <tr>
         <th>序号</th>
@@ -161,7 +161,7 @@
         <td>hills</td>
         <td><img src="https://files.catbox.moe/79ifgs.png" alt="Logo" style="width: 32px; height: 32px;"></td>
         <td><a href="https://play.google.com/store/apps/details?id=com.mountains.hills">点击</a></td>
-		<td></td><td></td><td></td><td>️✔️</td><td></td><td></td><td></td>
+		<td></td><td></td><td></td><td>️✔️</td><td></td><td>️✔️</td><td></td>
     </tr>
 	<tr>
         <td>22</td>
